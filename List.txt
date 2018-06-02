@@ -11,7 +11,6 @@ kantipurdaily.com##.swarnapur
 kantipurdaily.com##.col-xs-10.col-sm-10.col-md-10.pradeshList
 kantipurdaily.com##.video-ad-wrapper
 kantipurdaily.com##.video-ad-title
-kantipurdaily.com##.row
 annapurnapost.com##.advertisement
 kantipurdaily.com##.facebook
 kantipurdaily.com##.viaemail
