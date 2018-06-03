@@ -55,3 +55,12 @@ kantipurdaily.com##.comment
 ||bg.annapurnapost.com/uploads/media/20180425040335_Annapurna-Post-720x90px.jpg
 ||bg.annapurnapost.com/uploads/media/20180511043157_1000x90.gif
 ||bg.annapurnapost.com/uploads/media/20180506045733_1148x100_Annapurnapost.gif
+au.onlinekhabar.com##div[style="background:#CCC; width:1140px; height:90px; text-align:center; margin-bottom:20px; display:block;"]
+au.onlinekhabar.com###comments
+au.onlinekhabar.com###share_inside
+au.onlinekhabar.com##div[style="background:#CCC; width:810px; height:90px; text-align:center; display:block;"]
+au.onlinekhabar.com###commentform
+au.onlinekhabar.com##.replyform
+au.onlinekhabar.com###respond
+au.onlinekhabar.com##div[style="background:#f9f9f9; padding:20px; padding-top:5px;"]
+au.onlinekhabar.com##div[style="background:#CCC; width:1140px; height:100px; text-align:center;"]
